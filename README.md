@@ -73,7 +73,7 @@ I believe in clean architecture, great developer experience, and never stopping 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white)
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=flat-square&logo=dart&logoColor=white)
 ![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 - 🗺️ Real-time GPS tracking with live event maps & SOS emergency system
 - 🔐 Firebase Auth — email + Google sign-in
